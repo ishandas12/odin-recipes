@@ -31,3 +31,11 @@
 1. Add two more recipes with identical page structures to the recipe page you’ve already created.
 
 2. Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
+
+---
+
+PART 2
+
+Remember the Recipe page you created as practice from the HTML Foundations section? Well, it’s rather plain looking, isn’t it? Let’s fix that by adding some CSS to it!
+
+How you actually style it is completely open, but you should use the external CSS method (for this practice and moving forward). You should also try to use several of the properties mentioned in the previous lesson (color, background color, typography properties, etc). Take some time to play around with the various properties to get a feel for what they do. For now, don’t worry at all about making it look good. This is just to practice and get used to writing CSS, not to make something to show off on your resume.
